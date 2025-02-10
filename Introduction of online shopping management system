@@ -1,0 +1,35 @@
+Online Shopping Management System
+
+
+Features:
+There will be 2 queues at the checkout counter 
+Line 1.for the customers whose cart has 10 or less than 10 products 
+Line 2 for the customers whose cart has more than 10 products
+•	Security measures
+Use of secure login authentication mechanisms like Multi Factor authentication to protect user accounts, and strong password policies and storage of passwords using hashed techniques. 
+
+•	Shopping cart management 
+Count the products in the cart if it is more than 10 redirects it to line 2 and if less than 10 redirects it to line 1.
+
+•	Checkout management 
+Print a list of all the products and there quantities which are present in the cart 
+
+•	Reviewing the card
+Check whether the card have sufficient funds against the bill of the products in the cart if the card have sufficient funds print payment successful and if not print insufficient funds
+
+•	Completing the purchase
+Displays the list of items selected by the user, including item names, quantities, prices and subtotal. Also, allow users to modify the quantities, remove items or add new items before proceeding to checkout.
+
+•	Product search
+The user can search for the price of the product by entering the name and quantity of the product
+
+•	Product catalog
+A structured collection of all the products available in the online store.
+
+•	Admin Login
+It allows the admin to add the products and there prices in the stored data
+
+
+
+•	Discounts and coupons 
+If the user enters the keyword “DISCOUNT” and any value after the discount word that amount of discount can be applied to the entire bill this will be the last step after checkout
